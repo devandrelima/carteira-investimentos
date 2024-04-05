@@ -1,7 +1,8 @@
-# Calcular Rendimento de Ações
+# Calcular Carteira de Rendimentos
 
-Trabalho de laboratório de Programação de Computadores em C++. O objetivo é programar um tipo de calculadora de rendimentos
-para os próximos 20 anos e exibir um gráfico para visualização mais fácil dos cálculos.
+Trabalho de laboratório de Programação de Computadores em C++. O objetivo fazer um algoritmo que auxilia o usuário
+na construção de uma carteira de rendimentos, calculando os rendimentos das ações nos próximos 20 anos e exibe um 
+gráfico para visualização mais fácil dos resultados.
 
 ## Tela Carteira de Ações
 ![tela carteira de acoes](https://github.com/devandrelima/rendimento-acoes/assets/141466018/a2a27357-b48e-4a90-bac9-4175975be7a4)
