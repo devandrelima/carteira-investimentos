@@ -4,20 +4,16 @@ Trabalho de laboratório de Programação de Computadores em C++. O objetivo é 
 para os próximos 20 anos e exibir um gráfico para visualização mais fácil dos cálculos.
 
 ## Tela Carteira de Ações
-
-![App Screenshot](https://github.com/devAndreLA/corrida-caminhao/assets/141466018/f3eed24a-558f-49ed-85d2-462174d42732)
+![tela carteira de acoes](https://github.com/devandrelima/rendimento-acoes/assets/141466018/a2a27357-b48e-4a90-bac9-4175975be7a4)
 
 ## Tela Transações Realizadas
-
-![App Screenshot](https://github.com/devAndreLA/corrida-caminhao/assets/141466018/eee1199a-6331-4cab-921b-df4f9e3e8755)
+![tela transacoes realizadas](https://github.com/devandrelima/rendimento-acoes/assets/141466018/33f9182a-5b5b-48ca-bd53-76dbb930c390)
 
 ## Tela Resumo da Carteira
-
-
+![tela resumo da carteira](https://github.com/devandrelima/rendimento-acoes/assets/141466018/fedca115-7c70-4599-8e1d-379fe203502d)
 
 ## Tela Rendabilidade da Carteira (Gráfico)
-
-
+![tela rentabilidade da carteira](https://github.com/devandrelima/rendimento-acoes/assets/141466018/ef17deb5-e95a-45c1-9302-bb050a9040ea)
 
 ## Ferramentas
 C++, Visual Studio 2022
