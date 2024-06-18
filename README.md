@@ -1,6 +1,6 @@
 # Calcular Carteira de Rendimentos
 
-Trabalho de laboratório de Programação de Computadores em C++. O objetivo fazer um algoritmo que auxilia o usuário
+Trabalho de laboratório de Programação de Computadores em C++. Com objetivo de fazer um algoritmo que auxilia o usuário
 na construção de uma carteira de rendimentos, calculando os rendimentos das ações nos próximos 20 anos e exibe um 
 gráfico para visualização mais fácil dos resultados.
 
